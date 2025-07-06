@@ -1,4 +1,4 @@
-h1 align="center">Hi there 👋 I'm Hiba</h1>
+Hi there 👋 I'm Hiba
 <h3 align="center">🌍 Aspiring Web Developer | 💡 AI Enthusiast | 🔐 Cybersecurity Explorer</h3>
 
 <p align="center">
