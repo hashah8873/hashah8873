@@ -1,4 +1,4 @@
-h1 align="center">Hi there 👋 I'm Hiba Abo Shawish</h1>
+h1 align="center">Hi there 👋 I'm Hiba</h1>
 <h3 align="center">🌍 Aspiring Web Developer | 💡 AI Enthusiast | 🔐 Cybersecurity Explorer</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@ h1 align="center">Hi there 👋 I'm Hiba Abo Shawish</h1>
 
 - 📚 I’m currently studying **Mobile Web Development with AI**  
 - ☁️ Exploring the world of **Cloud & Cybersecurity**  
-- 🛠️ Hands-on with Git, GitHub, and real-world project collaboration 
+- 🛠️ Hands-on with Git, GitHub, and real-world project collaboration  
 
 ---
 
