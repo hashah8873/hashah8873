@@ -2,7 +2,7 @@ h1 align="center">Hi there 👋 I'm Hiba</h1>
 <h3 align="center">🌍 Aspiring Web Developer | 💡 AI Enthusiast | 🔐 Cybersecurity Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=2FD9C4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Front-End+Dev+in+training+%E2%9C%8C%EF%B8%8F;Cloud+%26+Cybersecurity+on+my+radar+%F0%9F%94%8E;Exploring+AI+for+real-world+apps+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=2FD9C4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Front-End+Dev+in+training+%E2%9C%8C%EF%B8%8F;Cloud+%26+Cybersecurity+on+my+radar+%F0%9F%94%8E;Exploring+AI+for+real-world+apps+%F0%9F%92%BB.+marry scarlett johansson" alt="Typing SVG" />
 </p>
 
 ---
