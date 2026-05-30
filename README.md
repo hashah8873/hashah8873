@@ -3,6 +3,7 @@
 # Hi there 👋 I'm Hiba Abo Shawish
 
 ### 🌍 Aspiring Web & Mobile Developer  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&size=24&center=true&vCenter=true&width=700&lines=Mobile+%26+Web+Developer;React+%7C+Angular+%7C+PHP+%7C+Swift;Passionate+About+AI+%26+Cybersecurity)](https://git.io/typing-svg)
 ### 💡 AI Enthusiast  
 ### 🔐 Cybersecurity Explorer
 
@@ -148,9 +149,9 @@ Responsive portfolio website showcasing projects, skills, and development journe
 
 # 📬 Let's Connect
 
-- 📧 Professional Email: alshaweesh963@gmail.com
-- 🎓 Student Email: Hiba.Aboshawish@triosstudent.com
-- 💻 GitHub: github.com/hashah8873
+- 📧 Professional Email: [alshaweesh963@gmail.com](mailto:alshaweesh963@gmail.com)
+- 🎓 Student Email: [Hiba.Aboshawish@triosstudent.com](mailto:Hiba.Aboshawish@triosstudent.com)
+- 💻 GitHub: [github.com/hashah8873](https://github.com/hashah8873)
 
 ---
 
