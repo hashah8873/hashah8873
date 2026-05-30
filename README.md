@@ -139,11 +139,9 @@ Responsive portfolio website showcasing projects, skills, and development journe
 
 # 📈 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hashah8873&show_icons=true&theme=radical&cache_seconds=1800" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hashah8873&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
