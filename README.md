@@ -1,9 +1,14 @@
-```markdown
-<h1 align="center">Hi there 👋 I'm Hiba Abo Shawish</h1>
+<div align="center">
 
-<p align="center">
-🌍 Aspiring Web & Mobile Developer | 💡 AI Enthusiast | 🔐 Cybersecurity Explorer
-</p>
+# Hi there 👋 I'm Hiba Abo Shawish
+
+🌍 Aspiring Web & Mobile Developer  
+💡 AI Enthusiast  
+🔐 Cybersecurity Explorer
+
+</div>
+```
+
 
 ---
 
