@@ -140,7 +140,7 @@ Responsive portfolio website showcasing projects, skills, and development journe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hashah8873&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=hashah8873&show_icons=true&theme=radical&cache_seconds=1800" />
 
 </div>
 
