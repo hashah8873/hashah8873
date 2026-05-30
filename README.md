@@ -155,7 +155,6 @@ Responsive portfolio website showcasing projects, skills, and development journe
 
 <div align="center">
 
-⭐ *Driven to learn, build, and contribute through modern web and mobile development projects.*
+⭐ <i>Driven to learn, build, and contribute through modern web and mobile development projects.</i>
 
 </div>
-```
