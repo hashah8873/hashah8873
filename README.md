@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Hi there 👋 I'm Hiba Abo Shawish</h1>
 
 <p align="center">
@@ -7,9 +8,17 @@
 ---
 
 ## 👩‍💻 About Me
-I am currently pursuing a **Diploma in Mobile & Web Development using AI** at **triOs College** (2-year program).  
-Passionate about combining development, cybersecurity, and AI to create real-world solutions.  
-Hands-on experience with Git, GitHub, web technologies, and collaborative projects.  
+
+I am currently pursuing a **Diploma in Mobile & Web Development using AI** at **triOS College**.
+
+Passionate about building modern web and mobile applications while exploring cybersecurity and AI technologies.
+
+Hands-on experience with:
+- Front-end development
+- Full-stack web applications
+- Git & GitHub collaboration
+- UI/UX design
+- Database integration
 
 > "Learning to code is like gaining a new superpower — I’m just getting started!" 💪
 
@@ -17,65 +26,97 @@ Hands-on experience with Git, GitHub, web technologies, and collaborative projec
 
 ## 🛠️ Technical Skills
 
-**Languages & Programming:**  
-HTML, CSS, JavaScript, PHP, MySQL, Swift, Java  
+### 🌐 Front-End Development
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Angular
+- Responsive Design
 
-**Web & Development Tools:**  
-WordPress, Linux Web Hosting, Git & GitHub, Graphic Design, UI/UX Tools  
+### ⚙️ Back-End Development
+- PHP
+- MySQL
 
-**Areas of Exploration:**  
-Cloud Security, Penetration Testing, Mobile & Web Development, AI-based UX & Conversational Interfaces  
+### 📱 Mobile Development
+- Swift
+- iOS Development
 
-**Career & Soft Skills:**  
-Career Management, Student Success Strategies, Team Collaboration, Version Control, Student Orientation  
+### 🎨 Design & Tools
+- Git & GitHub
+- VS Code
+- WordPress
+- Linux Web Hosting
+- UI/UX Design
+- Graphic Design
+- Figma
+
+### 🔐 Areas of Exploration
+- Cloud Security
+- Penetration Testing
+- AI-based UX Interfaces
+- Conversational Interfaces
 
 ---
 
 ## 🎓 Curriculum & Courses
 
-**Technical Courses:**  
-- Mobile & Web Development using AI (Diploma Program)  
-- HTML, CSS & JavaScript  
-- PHP & MySQL  
-- Swift Development  
-- UI/UX Design  
-- Graphic Design  
-- Web Capstone Project  
+### Technical Courses
+- Mobile & Web Development using AI
+- HTML, CSS & JavaScript
+- PHP & MySQL
+- Swift Development
+- UI/UX Design
+- Graphic Design
+- Web Capstone Project
 
-**Career & Professional Development:**  
-- Career Management  
-- Career Services  
-- Student Success Strategies  
-- Student Orientation  
-
-**Tools & Platforms:**  
-- Linux Web Hosting  
-- WordPress  
-- Git & GitHub  
-
-**Progress Status:**  
-✔ Completed Courses  
-🔄 In Progress  
+### Career & Professional Development
+- Career Management
+- Team Collaboration
+- Version Control
+- Student Success Strategies
 
 ---
 
 ## 🚀 Projects & Practice
-*(Projects coming soon — currently working on GitHub assignments, UI/UX designs, and web capstone projects.)*  
 
-- **GitHub Assignments:** Version control, branching, pull requests  
-- **UI/UX Design Practice:** AI-assisted prototypes  
-- **Web Capstone:** Full-stack project integrating database and front-end  
+Currently building academic and personal projects focused on:
+
+- Full-stack web applications
+- React & Angular interfaces
+- Mobile app development
+- UI/UX experiences
+- GitHub collaboration workflows
+
+### 📇 Contact Manager Web App
+Full-stack PHP & MySQL web application with CRUD operations and database integration.
+
+### 📚 Angular Book Browser App
+Angular application for browsing and displaying books dynamically.
+
+### ✅ React Task Management App
+Task management application built with React and TypeScript.
+
+### 🌐 Personal Portfolio Website
+Responsive portfolio website showcasing projects, skills, and development journey.
 
 ---
 
-## 📈 GitHub Stats & Badges
-![Hiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashah8873&show_icons=true&theme=radical)
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hashah8873&show_icons=true&theme=radical" />
+</p>
 
 ---
 
 ## 📬 Let's Connect
-[LinkedIn](https://www.linkedin.com/) | [Email](mailto:alshaweesh963@gmail.com) | [GitHub](https://github.com/hashah8873)
+
+- 📧 Professional Email: [alshaweesh963@gmail.com](mailto:alshaweesh963@gmail.com)
+- 🎓 Student Email: [Hiba.Aboshawish@triosstudent.com](mailto:Hiba.Aboshawish@triosstudent.com)
+- 💻 GitHub: [github.com/hashah8873](https://github.com/hashah8873)
 
 ---
 
-> "Driven to learn, explore, and contribute — aiming to turn my skills into real-world impact."
+⭐ *Driven to learn, build, and contribute through modern web and mobile development projects.*
+```
