@@ -2,13 +2,11 @@
 
 # Hi there 👋 I'm Hiba Abo Shawish
 
-🌍 Aspiring Web & Mobile Developer  
-💡 AI Enthusiast  
-🔐 Cybersecurity Explorer
+### 🌍 Aspiring Web & Mobile Developer  
+### 💡 AI Enthusiast  
+### 🔐 Cybersecurity Explorer
 
 </div>
-```
-
 
 ---
 
@@ -18,20 +16,20 @@ I am currently pursuing a **Diploma in Mobile & Web Development using AI** at **
 
 Passionate about building modern web and mobile applications while exploring cybersecurity and AI technologies.
 
-Hands-on experience with:
+### 🚀 Hands-on Experience With
 - Front-end development
 - Full-stack web applications
 - Git & GitHub collaboration
 - UI/UX design
 - Database integration
 
-> "Learning to code is like gaining a new superpower — I’m just getting started!" 💪
+> 💪 *"Learning to code is like gaining a new superpower — I’m just getting started!"*
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### 🌐 Front-End Development
+## 🌐 Front-End Development
 - HTML5
 - CSS3
 - JavaScript
@@ -39,15 +37,21 @@ Hands-on experience with:
 - Angular
 - Responsive Design
 
-### ⚙️ Back-End Development
+---
+
+## ⚙️ Back-End Development
 - PHP
 - MySQL
 
-### 📱 Mobile Development
+---
+
+## 📱 Mobile Development
 - Swift
 - iOS Development
 
-### 🎨 Design & Tools
+---
+
+## 🎨 Design & Tools
 - Git & GitHub
 - VS Code
 - WordPress
@@ -56,7 +60,9 @@ Hands-on experience with:
 - Graphic Design
 - Figma
 
-### 🔐 Areas of Exploration
+---
+
+## 🔐 Areas of Exploration
 - Cloud Security
 - Penetration Testing
 - AI-based UX Interfaces
@@ -64,9 +70,9 @@ Hands-on experience with:
 
 ---
 
-## 🎓 Curriculum & Courses
+# 🎓 Curriculum & Courses
 
-### Technical Courses
+## 📚 Technical Courses
 - Mobile & Web Development using AI
 - HTML, CSS & JavaScript
 - PHP & MySQL
@@ -75,7 +81,9 @@ Hands-on experience with:
 - Graphic Design
 - Web Capstone Project
 
-### Career & Professional Development
+---
+
+## 💼 Career & Professional Development
 - Career Management
 - Team Collaboration
 - Version Control
@@ -83,7 +91,7 @@ Hands-on experience with:
 
 ---
 
-## 🚀 Projects & Practice
+# 🚀 Projects & Practice
 
 Currently building academic and personal projects focused on:
 
@@ -93,35 +101,62 @@ Currently building academic and personal projects focused on:
 - UI/UX experiences
 - GitHub collaboration workflows
 
-### 📇 Contact Manager Web App
+---
+
+## 📇 Contact Manager Web App
 Full-stack PHP & MySQL web application with CRUD operations and database integration.
 
-### 📚 Angular Book Browser App
+### Features
+- Add contacts
+- Edit contacts
+- Delete contacts
+- Search functionality
+- Database integration
+
+---
+
+## 📚 Angular Book Browser App
 Angular application for browsing and displaying books dynamically.
 
-### ✅ React Task Management App
+---
+
+## ✅ React Task Management App
 Task management application built with React and TypeScript.
 
-### 🌐 Personal Portfolio Website
+### Features
+- Add tasks
+- Update tasks
+- Delete tasks
+- Interactive UI
+
+---
+
+## 🌐 Personal Portfolio Website
 Responsive portfolio website showcasing projects, skills, and development journey.
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashah8873&show_icons=true&theme=radical" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hashah8873&show_icons=true&theme=radical" />
+
+</div>
+
+---
+
+# 📬 Let's Connect
+
+- 📧 Professional Email: alshaweesh963@gmail.com
+- 🎓 Student Email: Hiba.Aboshawish@triosstudent.com
+- 💻 GitHub: github.com/hashah8873
 
 ---
 
-## 📬 Let's Connect
-
-- 📧 Professional Email: [alshaweesh963@gmail.com](mailto:alshaweesh963@gmail.com)
-- 🎓 Student Email: [Hiba.Aboshawish@triosstudent.com](mailto:Hiba.Aboshawish@triosstudent.com)
-- 💻 GitHub: [github.com/hashah8873](https://github.com/hashah8873)
-
----
+<div align="center">
 
 ⭐ *Driven to learn, build, and contribute through modern web and mobile development projects.*
+
+</div>
 ```
