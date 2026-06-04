@@ -2,10 +2,10 @@
 
 # Hi there 👋 I'm Hiba Abo Shawish
 
-### 🌍 Aspiring Web & Mobile Developer  
+### 🌍 Aspiring Full-Stack & Mobile Developer
+Building web and mobile applications with Angular, React, PHP, MySQL, SwiftUI, and Firebase.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&size=24&center=true&vCenter=true&width=700&lines=Mobile+%26+Web+Developer;React+%7C+Angular+%7C+PHP+%7C+Swift;Passionate+About+AI+%26+Cybersecurity)](https://git.io/typing-svg)
-### 💡 AI Enthusiast  
-### 🔐 Cybersecurity Explorer
+### Web & Mobile Development EnthusiastWeb & Mobile Development Enthusiast
 
 </div>
 
@@ -24,7 +24,7 @@ Passionate about building modern web and mobile applications while exploring cyb
 - UI/UX design
 - Database integration
 
-> 💪 *"Learning to code is like gaining a new superpower — I’m just getting started!"*
+> 💪 *"Passionate about building practical web and mobile solutions through continuous learning and hands-on development."*
 
 ---
 
@@ -37,6 +37,9 @@ Passionate about building modern web and mobile applications while exploring cyb
 - React
 - Angular
 - Responsive Design
+- Firebase Authentication
+- Firestore
+- Firebase Hosting
 
 ---
 
@@ -64,8 +67,6 @@ Passionate about building modern web and mobile applications while exploring cyb
 ---
 
 ## 🔐 Areas of Exploration
-- Cloud Security
-- Penetration Testing
 - AI-based UX Interfaces
 - Conversational Interfaces
 
@@ -92,6 +93,16 @@ Passionate about building modern web and mobile applications while exploring cyb
 
 ---
 
+## 🎯 Current Focus
+
+- Building full-stack web applications
+- Learning Angular advanced concepts
+- Expanding mobile development skills with SwiftUI
+- Exploring Firebase integration
+- Preparing for software development internships
+
+---
+
 # 🚀 Projects & Practice
 
 Currently building academic and personal projects focused on:
@@ -105,7 +116,7 @@ Currently building academic and personal projects focused on:
 ---
 
 ## 📇 Contact Manager Web App
-Full-stack PHP & MySQL web application with CRUD operations and database integration.
+Full-stack Contact Management System built with Angular, PHP, and MySQL featuring authentication, CRUD operations, search functionality, and responsive design.
 
 ### Features
 - Add contacts
@@ -117,12 +128,12 @@ Full-stack PHP & MySQL web application with CRUD operations and database integra
 ---
 
 ## 📚 Angular Book Browser App
-Angular application for browsing and displaying books dynamically.
+Angular application for browsing and displaying books with a responsive user interface.
 
 ---
 
 ## ✅ React Task Management App
-Task management application built with React and TypeScript.
+Task management application built with React and TypeScript featuring task creation, updates, deletion, and responsive design.
 
 ### Features
 - Add tasks
@@ -150,7 +161,8 @@ Responsive portfolio website showcasing projects, skills, and development journe
 - 📧 Professional Email: [alshaweesh963@gmail.com](mailto:alshaweesh963@gmail.com)
 - 🎓 Student Email: [Hiba.Aboshawish@triosstudent.com](mailto:Hiba.Aboshawish@triosstudent.com)
 - 💻 GitHub: [github.com/hashah8873](https://github.com/hashah8873)
-
+- LinkedIn: [www.linkedin.com/in/hiba-abo-shawish
+](https://www.linkedin.com/in/hiba-abo-shawish-62619a21b/)
 ---
 
 <div align="center">
